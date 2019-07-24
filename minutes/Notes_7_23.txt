@@ -1,0 +1,28 @@
+MIN Cases 
+MIN Cost
+
+Prevention vs Trearment 
+Jared voted no - scope increase
+
+Prevention 
+ - Education tide to initail treatment 
+ - Do we  have data understanding 
+ - Reduce deer/bear population ?  
+ - Pats ?  
+
+Local govermant 
+   Spending on 
+      Effectivnece ( focus on prevention) 
+      Cross reference data for decision variables 
+       - How much to use of a particular prevention to invest 
+ 
+      
+
+Constraint 
+   - max funding 
+   - max prevention type  effectivness 
+   - 98% cary lime deseace     
+     
+
+DATA first 
+
