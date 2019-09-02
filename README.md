@@ -10,3 +10,6 @@
 - [CDC Lime Disease dataset](https://www.cdc.gov/lyme/stats/tables.html)
 - [Lime Disease corss stady](https://www.mdpi.com/1660-4601/16/9/1547/htm)
 - [Factors Leading Municipal Authorities to Implement Preventive Interventions for Lyme Disease](https://www.mdpi.com/1660-4601/16/9/1547/htm)
+- [Adaptation and Evaluation of a Multi-Criteria Decision Analysis Model for Lyme Disease Prevention ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4546612/)
+[Tick check](https://www.tickcheck.com/stats/county/connecticut/hartford-county/lyme)
+[Connecticut 2017 Deer program](https://docs.google.com/a/deerfriendly.com/viewer?a=v&pid=sites&srcid=ZGVlcmZyaWVuZGx5LmNvbXxob21lfGd4OjdkZGU3MzY4MWJiZGYyMjA) 
